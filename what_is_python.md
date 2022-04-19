@@ -314,6 +314,8 @@ a: 1, b: 2
 クラスをもとに生成されたヒープメモリ上のデータ
 
 
+
+<main.py>
 class Person:
     def __init__(self, height, weight):
         self.height = height
